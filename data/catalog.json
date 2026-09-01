@@ -1,0 +1,159 @@
+{
+  "company": {
+    "name": "Premium Detailing",
+    "site": "#",
+    "phone": "+7 ___ ___-__-__",
+    "tel": "#",
+    "whatsapp": "#",
+    "telegram": "#",
+    "address": "Санкт-Петербург",
+    "schedule": "Ежедневно 09:00–21:00",
+    "rating": "5.0",
+    "reviews": 42,
+    "mapOid": "",
+    "coordinates": []
+  },
+  "categories": [
+    {
+      "id": "all",
+      "label": "Все",
+      "count": 11
+    },
+    {
+      "id": "autoatelier",
+      "label": "Автоателье",
+      "count": 3
+    },
+    {
+      "id": "wrap",
+      "label": "Антигравийная защита",
+      "count": 1
+    },
+    {
+      "id": "polish",
+      "label": "Полировка и оптика",
+      "count": 2
+    },
+    {
+      "id": "pdr",
+      "label": "PDR",
+      "count": 1
+    },
+    {
+      "id": "protect",
+      "label": "Защита ЛКП",
+      "count": 1
+    },
+    {
+      "id": "tint",
+      "label": "Тонирование стекол",
+      "count": 1
+    },
+    {
+      "id": "chemical",
+      "label": "Химчистка",
+      "count": 2
+    }
+  ],
+  "products": [
+    {
+      "title": "Чистка кожи и обработка",
+      "category": "chemical",
+      "price": "5 000 ₽",
+      "priceValue": 5000,
+      "image": "images/demo/demo-12.jpg",
+      "description": "Деликатная чистка кожаных сидений и элементов салона с защитной обработкой после очистки.",
+      "tag": "химчистка"
+    },
+    {
+      "title": "Реставрация кожи",
+      "category": "autoatelier",
+      "price": "7 000 ₽",
+      "priceValue": 7000,
+      "image": "images/demo/demo-18.jpg",
+      "description": "Локальное восстановление кожаных элементов салона: цвет, фактура и аккуратный внешний вид.",
+      "tag": "автоателье"
+    },
+    {
+      "title": "Восстановление фар",
+      "category": "polish",
+      "price": "3 000 ₽",
+      "priceValue": 3000,
+      "image": "images/demo/demo-03.jpg",
+      "description": "Полировка и восстановление прозрачности фар, чтобы оптика выглядела свежее и светила чище.",
+      "tag": "оптика"
+    },
+    {
+      "title": "Тонировка",
+      "category": "tint",
+      "price": "10 000 ₽",
+      "priceValue": 10000,
+      "image": "images/demo/demo-11.jpg",
+      "description": "Тонирование стекол автомобиля с ровной посадкой пленки и чистой визуальной линией.",
+      "tag": "стекла"
+    },
+    {
+      "title": "Защита передней части кузова",
+      "category": "wrap",
+      "price": "75 000 ₽",
+      "priceValue": 75000,
+      "image": "images/demo/demo-05.jpg",
+      "description": "Антигравийная защита передней части: капот, бампер, фары, крылья и стойки по согласованной схеме.",
+      "tag": "бронь"
+    },
+    {
+      "title": "Обновление кожаного салона",
+      "category": "autoatelier",
+      "price": "1 000 ₽",
+      "priceValue": 1000,
+      "image": "images/demo/demo-14.jpg",
+      "description": "Обновление отдельных кожаных элементов салона под задачу и состояние автомобиля.",
+      "tag": "салон"
+    },
+    {
+      "title": "Выпрямление вмятин без покраски",
+      "category": "pdr",
+      "price": "1 000 ₽",
+      "priceValue": 1000,
+      "image": "images/demo/demo-13.jpg",
+      "description": "PDR-ремонт мелких вмятин без окраса, когда лакокрасочное покрытие можно сохранить.",
+      "tag": "PDR"
+    },
+    {
+      "title": "Полировка + керамика 2 слоя",
+      "category": "protect",
+      "price": "30 000 ₽",
+      "priceValue": 30000,
+      "image": "images/demo/demo-01.jpg",
+      "description": "После тщательной полировки кузова наносится керамический состав, который добавляет блеск и защиту ЛКП.",
+      "tag": "керамика"
+    },
+    {
+      "title": "Детейлинг химчистка салона",
+      "category": "chemical",
+      "price": "15 000 ₽",
+      "priceValue": 15000,
+      "image": "images/demo/demo-04.jpg",
+      "description": "Деликатная химчистка салона с вниманием к сиденьям, дверным картам, пластику и труднодоступным зонам.",
+      "tag": "химчистка"
+    },
+    {
+      "title": "Полировка глянцевых вставок интерьера",
+      "category": "autoatelier",
+      "price": "5 000 ₽",
+      "priceValue": 5000,
+      "image": "images/demo/demo-15.jpg",
+      "description": "Полировка глянцевых вставок интерьера автомобиля для удаления следов эксплуатации.",
+      "tag": "интерьер"
+    },
+    {
+      "title": "Корректирующая полировка",
+      "category": "polish",
+      "price": "12 000 ₽",
+      "priceValue": 12000,
+      "image": "images/demo/demo-16.jpg",
+      "description": "Восстанавливает яркость и блеск кузова, убирает основную массу мелких царапин. Цена зависит от состояния ЛКП.",
+      "tag": "полировка"
+    }
+  ]
+}
